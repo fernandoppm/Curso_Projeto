@@ -1,6 +1,5 @@
-// Jogo de Adivinação
+// Jogo de Adivinhação
 
-// Este projeto é um jogo simples de adivinhação (Projeto 4). O jogador escolhe um nível de dificuldade (Fácil, Médio ou Difícil), e precisa adivinhar um número gerado aleatoriamente dentro do intervalo correspondente.
 
 import * as readline from 'readline-sync';
 
