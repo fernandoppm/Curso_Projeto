@@ -1,2 +1,2 @@
 # Curso_Projeto
-Projetos referentes a Curso da Tascom Academy
+Projetos Desenvolvidos no Curso da Tascom Academy
